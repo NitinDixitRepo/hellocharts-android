@@ -3,7 +3,7 @@ package lecho.lib.hellocharts.gesture;
 import android.content.Context;
 import android.graphics.Point;
 import android.graphics.Rect;
-import android.support.v4.widget.ScrollerCompat;
+import androidx.core.widget.ScrollerCompat;
 
 import lecho.lib.hellocharts.computator.ChartComputator;
 import lecho.lib.hellocharts.model.Viewport;

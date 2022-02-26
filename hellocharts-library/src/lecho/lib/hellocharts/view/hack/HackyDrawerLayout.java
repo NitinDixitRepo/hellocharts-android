@@ -1,9 +1,10 @@
 package lecho.lib.hellocharts.view.hack;
 
 import android.content.Context;
-import android.support.v4.widget.DrawerLayout;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
+
+import androidx.drawerlayout.widget.DrawerLayout;
 
 /**
  * Hacky fix for issue with DrawerLayout https://github.com/chrisbanes/PhotoView/issues/72
