@@ -1,7 +1,7 @@
 # HelloCharts for Android
 
-Charting library for Android compatible with API 8+(Android 2.2).
-Works best when hardware acceleration is available, so API 14+(Android 4.0) is recommended.
+Charting library for Android compatible with API 21+(Android 2021.1.1 Patch 2).
+Works best when hardware acceleration is available, so API 21+(Android 5.0) is recommended.
 Apache License 2.0.
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-HelloCharts%20for%20Android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1068)
@@ -9,8 +9,8 @@ Apache License 2.0.
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/4121/badge.svg"/>
 </a>
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.lecho/hellocharts-library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.lecho/hellocharts-library)
-[![Release](https://img.shields.io/github/release/lecho/hellocharts-android.svg?label=JitPack.io)](https://jitpack.io/#lecho/hellocharts-android)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library)
+[![Release](https://img.shields.io/github/release/NitinDixitRepo/hellocharts-android.svg?label=JitPack.io)](https://jitpack.io/#NitinDixitRepo/hellocharts-android)
 
 ## Features
 
@@ -52,7 +52,7 @@ Apache License 2.0.
  
  ```groovy
 	dependencies{
- 		compile 'com.github.lecho:hellocharts-library:1.5.8@aar'
+        implementation 'com.github.NitinDixitRepo:hellocharts-library:2.0.0@aar'
 	}
  ```
  
@@ -66,13 +66,13 @@ Apache License 2.0.
     }
 	
     dependencies {
-        compile 'com.github.lecho:hellocharts-android:v1.5.8'
+        implementation 'com.github.NitinDixitRepo:hellocharts-library:2.0.0'
     }
  ```
  
 #### Eclipse/ADT
 
- - Download the latest [release jar file](https://github.com/lecho/hellocharts-android/releases).
+ - Download the latest [release jar file](https://github.com/NitinDixitRepo/hellocharts-android/releases).
  - Copy `hellocharts-library-<version>.jar` into the `libs` folder of your application project.
 
 ## Usage
@@ -142,7 +142,8 @@ Yes:) If you found a bug, have an idea how to improve library or have a question
 # License
 
 	HelloCharts	
-    Copyright 2014 Leszek Wach
+    Copyright 2022 Nitin Dixit
+    Originally developed by Leszek Wach
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
