@@ -10,7 +10,8 @@ Apache License 2.0.
        src="https://scan.coverity.com/projects/4121/badge.svg"/>
 </a>
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library)
-[![Release](https://img.shields.io/github/release/NitinDixitRepo/hellocharts-android.svg?label=JitPack.io)](https://jitpack.io/#NitinDixitRepo/hellocharts-android)
+[![](https://jitpack.io/v/NitinDixitRepo/hellocharts-android.svg)](https://jitpack.io/#NitinDixitRepo/hellocharts-android)
+
 
 ## Features
 
