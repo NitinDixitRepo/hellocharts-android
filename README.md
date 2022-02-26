@@ -5,9 +5,9 @@ Works best when hardware acceleration is available, so API 21+(Android 5.0) is r
 Apache License 2.0.
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-HelloCharts%20for%20Android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1068)
-<a href="https://scan.coverity.com/projects/4121">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/4121/badge.svg"/>
+<a href="https://scan.coverity.com/projects/nitindixitrepo-segmentedcontrol">
+<img alt="Coverity Scan Build Status"
+src="https://scan.coverity.com/projects/24585/badge.svg"/>
 </a>
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.NitinDixitRepo/hellocharts-library)
 [![](https://jitpack.io/v/NitinDixitRepo/hellocharts-android.svg)](https://jitpack.io/#NitinDixitRepo/hellocharts-android)
